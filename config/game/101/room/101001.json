@@ -1,0 +1,15 @@
+{
+  "is_match": false,
+  "type": "SNG",
+  "desc": "坐满即开",
+  "name": "SNG初级场",
+  "min_coin": 10000,
+  "max_coin": -1,
+  "has_robot": true,
+  "kick_out_coin": 2000,
+  "init_table_num": 100,
+  "table_conf": {
+    "max_seat_num": 6,
+    "is_full_open": false
+  }
+}

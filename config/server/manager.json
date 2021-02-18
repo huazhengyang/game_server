@@ -1,0 +1,23 @@
+{
+  "pub_channels": {
+    "Gate": [
+      "Hall",
+      "Game",
+      "Center",
+      "Gate",
+      "Observer"
+    ],
+    "Hall": [
+      "Gate",
+      "Observer"
+    ],
+    "Game": [
+      "Gate",
+      "Observer"
+    ],
+    "Center": [
+      "Gate",
+      "Observer"
+    ]
+  }
+}
